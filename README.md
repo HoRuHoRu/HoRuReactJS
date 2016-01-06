@@ -3,6 +3,7 @@ ReactJS 연습하기 위한 GIT
 
 ## 참고 웹사이트
 
+* [ReactJS(공식문서)] (http://facebook.github.io/react/docs/getting-started.html)
 * [ReactJS(번역문서)] (http://reactkr.github.io/react/docs/getting-started-ko-KR.html)
 * [SlideShare(Taegon Kim님 자료)] (http://www.slideshare.net/taggon/react-js-46357445)
 
