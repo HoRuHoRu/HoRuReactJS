@@ -19,7 +19,8 @@ ReactJS : **A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES**
 
 ## Why Virtual DOM
 
-* DOM 단점 : 일관성없음, 브라우저테스트가 필요, 느림....(주륵) -> 일관성있고, 테스트가 쉽고, 빠르게 동작하도록 하는것이 Virtual DOM!!
+* DOM 단점 : 일관성없음, 브라우저테스트가 필요, 느림....(주륵) 
+* **일관성**있고, **테스트가 쉽고**, **빠르게** 동작하도록 하는것이 Virtual DOM!!
 
 * [React 성능 확인하기] (https://www.youtube.com/watch?v=z5e7kWSHWTg&feature=youtu.be&t=2m29s)
 
