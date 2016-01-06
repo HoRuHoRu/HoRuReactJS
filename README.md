@@ -13,17 +13,17 @@ ReactJS : **A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES**
 
 -> 컴포넌트를 통한 View 표현만 담당
 
-* JSX? JavaScript XML
+## JSX? JavaScript XML
 
-** JS코드에 xml를 직접 표현 -> JS로 컴파일(JSX Transformer)
+* JS코드에 xml를 직접 표현 -> JS로 컴파일(JSX Transformer)
 
-* Why Virtual DOM
+## Why Virtual DOM
 
 * DOM 단점 : 일관성없음, 브라우저테스트가 필요, 느림....(주륵) -> 일관성있고, 테스트가 쉽고, 빠르게 동작하도록 하는것이 Virtual DOM!!
 
 * [React 성능 확인하기] (https://www.youtube.com/watch?v=z5e7kWSHWTg&feature=youtu.be&t=2m29s)
 
-* 단방향 데이터 흐름
+##단방향 데이터 흐름
 
 * 상위컴포넌트 -> 하위 컴포넌트
 
