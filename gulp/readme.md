@@ -1,5 +1,5 @@
-## reactJS With gulp Tutorial
+# reactJS With gulp Tutorial
 
-# gulp Install
+## gulp Install
   
-   npm install --global gulp
+    npm install --global gulp
