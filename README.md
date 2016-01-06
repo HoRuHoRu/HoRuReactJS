@@ -4,7 +4,7 @@ ReactJS 연습하기 위한 GIT
 ## 참고 웹사이트
 
 * [ReactJS(번역문서)] (http://reactkr.github.io/react/docs/getting-started-ko-KR.html)
-* [SlideShare] (http://www.slideshare.net/taggon/react-js-46357445)
+* [SlideShare(Taegon Kim님 자료)] (http://www.slideshare.net/taggon/react-js-46357445)
 
 ## ReactJS 란?
 ReactJS : **A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES**
