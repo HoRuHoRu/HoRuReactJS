@@ -7,6 +7,7 @@ ReactJS 연습하기 위한 GIT
 * [ReactJS(번역문서)] (http://reactkr.github.io/react/docs/getting-started-ko-KR.html)
 * [SlideShare(Taegon Kim님 자료)] (http://www.slideshare.net/taggon/react-js-46357445)
 * [Spoqa Blog] (http://spoqa.github.io/2015/09/09/react-guide-01.html)
+* [UnderScore.js 좋은정리] (https://seoh.github.io/blog/2012/10/09/getting-cozy-with-underscore-js/)
 
 ## ReactJS 란?
 ReactJS : **A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES**
